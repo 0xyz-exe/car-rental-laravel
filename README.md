@@ -38,3 +38,11 @@ npm audit --omit=dev
 ```
 
 CSV reports contain actual confirmed reservations, not synthetic analytics. Setup seeds no sample vehicles or customer records. Keep `.env`, databases, dependencies, uploaded files, and build output out of Git.
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
