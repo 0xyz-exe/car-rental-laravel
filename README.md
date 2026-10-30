@@ -2,6 +2,17 @@
 
 Standalone Laravel app for vehicle browsing, date/time availability, reservation and cancellation, server-priced extras, admin fleet/reservation/maintenance management, and CSV reservation reporting.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Katalog Armada Kendaraan**<br>Filter kategori (MPV, SUV, EV), spesifikasi transmisi/kapasitas, dan tarif harian | ![Katalog Armada](docs/screenshots/01-vehicle-catalog.png) |
+| **Pemesanan & Pilihan Rental Extras**<br>Seleksi tanggal peminjaman, lokasi antar-jemput, dan opsi tambahan | ![Pemesanan & Extras](docs/screenshots/02-reservation-checkout.png) |
+| **Riwayat Reservasi Pelanggan**<br>Daftar pesanan aktif terkonfirmasi dengan total harga dan opsi pembatalan | ![Riwayat Reservasi](docs/screenshots/03-my-reservations.png) |
+| **Panel Administrasi Rental & Armada**<br>Manajemen jadwal servis, pembaruan status pemesanan, dan ringkasan armada | ![Administrasi Rental](docs/screenshots/04-admin-fleet-management.png) |
+
+---
+
 ## Setup (Windows)
 
 ```powershell
